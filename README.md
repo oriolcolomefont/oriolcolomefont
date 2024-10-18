@@ -7,3 +7,5 @@ Always eager to hit the following note, I'm ready for new challenges.
 - 💬 Ask me about anything that has to do with music!
 - 📫 How to reach me: oriolcolomefont@gmail.com
 - ⚡ Fun fact: I recently discovered my new passion; Muay Thai 🇹🇭🙏
+
+[![Oriol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oriolcolomefont)](https://github.com/oriolcolomefont/github-readme-stats)
