@@ -8,6 +8,6 @@ Always eager to hit the following note, I'm ready for new challenges.
 - 📫 How to reach me: oriolcolomefont@gmail.com
 - ⚡ Fun fact: I recently discovered my new passion; Muay Thai 🇹🇭🙏
 
-<img alt="my stats" align="left" width ="35%" src="https://github-readme-stats.vercel.app/api?username=oriolcolomefont"/>
+<img alt="my stats" align="left" width ="55%" src="https://github-readme-stats.vercel.app/api?username=oriolcolomefont"/>
 
 <img alt="top langs" align="left" width ="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriolcolomefont&show_icons=true"/>
