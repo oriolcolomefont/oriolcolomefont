@@ -12,4 +12,4 @@ Always eager to hit the following note, I'm ready for new challenges.
 
 ---
 
-<img alt="top langs" align="left" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriolcolomefont&show_icons=true"/>
+<img alt="top langs" align="left" width ="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriolcolomefont&show_icons=true"/>
