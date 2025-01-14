@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Catalan musician turned music scientist. I’ve spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call **music**__. In the past few years, I’ve been shifting course towards the music tech space, though I’m still drawn to the endless possibilities that music’s multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
+I am a Catalan musician turned music scientist. I’ve spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call __**music**__. In the past few years, I’ve been shifting course towards the music tech space, though I’m still drawn to the endless possibilities that music’s multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
 
 I’m obsessed with high-level retrieval in music and how they can bring value to just about anything—artists, listeners, products, or whatever else music touches.
 
