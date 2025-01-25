@@ -6,17 +6,11 @@ I’m obsessed with high-level abstract retrieval in music data and how they can
 
 ## 🎯 Current Focus
 
-- Music Information Retrieval (MIR)
-- High-level music analysis systems
-- Systematic musicology
-- Cross-modal music applications
+My current work focuses on Music Information Retrieval (MIR), developing high-level music analysis systems, systematic musicology research, and creating cross-modal music applications. These interconnected areas allow me to explore and advance the technological frontiers of music understanding and interaction.
 
 ## 💼 Professional Interests
 
-- Building bridges between music technology and industry applications
-- Developing innovative solutions for artists, listeners, and music professionals
-- Exploring music's multimodal nature through technology
-- Collaborating with diverse teams across the music ecosystem
+My professional interests center around building bridges between music technology and industry applications, developing innovative solutions for artists, listeners, and music professionals, exploring music's multimodal nature through technology, and collaborating with diverse teams across the music ecosystem.
 
 ## 🛠️ Tech Stack
 
