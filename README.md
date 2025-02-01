@@ -1,16 +1,16 @@
 > Catalan musician turned music scientist, bridging the gap between art and technology.
 
-I’ve spent over a decade making a living from, and for this wiggly air and cognitive phenomenon we call music. In the past few years, I’ve been shifting course towards the music tech space, though I’m still drawn to the endless possibilities that music’s multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
+I’ve spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call music. In the past few years, I’ve been shifting course towards the music tech space, though I’m still drawn to the endless possibilities that music’s multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
 
 I’m obsessed with high-level abstract retrieval in music data and how they can bring value to anything—artists, listeners, products, or whatever else music touches.
 
 ## 🎯 Current Focus
 
-My current work focuses on Music Information Retrieval (MIR), developing high-level music analysis systems, systematic musicology research, and creating cross-modal music applications. These interconnected areas allow me to explore and advance the technological frontiers of music understanding and interaction.
+My work focuses on Music Information Retrieval (MIR), developing high-level music analysis systems, systematic musicology research, and creating cross-modal music applications. These interconnected areas allow me to explore and advance the technological frontiers of music understanding and interaction.
 
 ## 💼 Professional Interests
 
-My professional interests center around building bridges between music technology and industry applications, developing innovative solutions for artists, listeners, and music professionals, exploring music's multimodal nature through technology, and collaborating with diverse teams across the music ecosystem.
+My professional interests center around building bridges between music technology and industry applications, developing innovative solutions for artists, listeners, and professionals, exploring music's multimodal nature through technology, and collaborating with diverse teams across the music ecosystem.
 
 ## 🛠️ Tech Stack
 
