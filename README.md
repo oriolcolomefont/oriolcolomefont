@@ -35,8 +35,6 @@ My professional interests center around building bridges between music technolog
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oriolcolomefont&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
