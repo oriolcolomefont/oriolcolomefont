@@ -54,9 +54,3 @@ My professional interests center around building bridges between music technolog
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ocf/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:oriolcolomefont@gmail.com)
-
----
-
-<div align="center">
-  <i>Interested in collaborating on innovative music technology projects? Let's connect and explore the possibilities!</i>
-</div>
