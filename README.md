@@ -6,7 +6,7 @@
   <h2>🎵 Catalan musician and music scientist 🔬</h2>
 </div>
 
-I’ve spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call music. In the past few years, I’ve been shifting course towards the music tech space, though I’m still drawn to the endless possibilities that music’s multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
+I've spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call music. In the past few years, I've been shifting course towards the music tech space, though I'm still drawn to the endless possibilities that music's multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
 
 With over a decade of experience as a professional musician, I've evolved into a music scientist passionate about unlocking the deeper patterns and structures in music through technology. My unique perspective combines hands-on musical expertise with cutting-edge computational approaches, allowing me to develop innovative solutions that serve both artists and listeners.
 
@@ -30,7 +30,7 @@ My professional interests center around building bridges between music technolog
 
 ## 🛠️ Technical Stack
 
-### Core Technologies
+### Core programming and scripting languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
@@ -45,15 +45,19 @@ My professional interests center around building bridges between music technolog
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-## 📈 GitHub Analytics
+### Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oriolcolomefont&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriolcolomefont&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:oriolcolomefont@gmail.com)
