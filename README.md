@@ -1,18 +1,15 @@
-<div align="center">
-  <h1>👋 Hello, I'm Oriol</h1>
-</div>
+Welcome to my GitHub.com profile! 👋
 
-<div align="center">
-  <h2>🎵 Catalan musician and music scientist 🔬</h2>
-</div>
+My name is Oriol Colomé. I am a musician and a music scientist. I've spent over a decade making a living from, and for this wiggly air and cognitive phenomenon we call music. In the past few years, I've been shifting course towards the music tech space, though I'm still drawn to the endless possibilities that music's multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
 
-I've spent over a decade making a living from and for this wiggly air and cognitive phenomenon we call music. In the past few years, I've been shifting course towards the music tech space, though I'm still drawn to the endless possibilities that music's multimodality offers. I enjoy working with all kinds of folks—musicians, industry pros, academics, product people, you name it.
+With over a decade of experience as a professional musician, I've become a music scientist passionate about unlocking music's deeper patterns and structures through technology. My unique perspective combines hands-on musical expertise with cutting-edge computational approaches, allowing me to develop innovative solutions that serve artists and listeners.
 
-With over a decade of experience as a professional musician, I've evolved into a music scientist passionate about unlocking the deeper patterns and structures in music through technology. My unique perspective combines hands-on musical expertise with cutting-edge computational approaches, allowing me to develop innovative solutions that serve both artists and listeners.
+## 💡 Areas of interest
 
-## 🧪 Research Focus
+- **Music Information Retrieval (MIR)**: Advanced signal processing, feature extraction, and music analysis
+- **Music Technology**: System design, algorithm development, and practical applications
+- **Cross-Modal Analysis**: Integrating multiple modalities of musical information
 
-I specialize in advanced Music Information Retrieval (MIR) with an emphasis on:
 - High-level semantic analysis of musical content
 - Cross-modal music representation learning
 - Systematic musicology through computational methods
@@ -21,12 +18,6 @@ I specialize in advanced Music Information Retrieval (MIR) with an emphasis on:
 ## 💼 Professional Interests
 
 My professional interests center around building bridges between music technology and industry applications, developing innovative solutions for artists, listeners, and professionals, exploring music's multimodal nature through technology, and collaborating with diverse teams across the music ecosystem.
-
-## 💡 Areas of Expertise
-
-- **Music Information Retrieval (MIR)**: Advanced signal processing, feature extraction, and music analysis
-- **Music Technology**: System design, algorithm development, and practical applications
-- **Cross-Modal Analysis**: Integrating multiple modalities of musical information
 
 ## 🛠️ Technical Stack
 
